@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1873-calculate-special-bonus](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
