@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0596-classes-with-at-least-5-students](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1517-find-users-with-valid-e-mails) |
