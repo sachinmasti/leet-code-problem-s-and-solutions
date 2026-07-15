@@ -34,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
