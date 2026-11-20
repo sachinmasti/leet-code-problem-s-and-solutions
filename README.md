@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinmasti/leet-code-problem-s-and-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
