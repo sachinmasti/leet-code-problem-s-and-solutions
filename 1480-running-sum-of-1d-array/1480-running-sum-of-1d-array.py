@@ -5,6 +5,6 @@ class Solution:
             return []
         
         new_nums = [nums[0]]
-        for i in range(1,len(nums)):
-            new_nums.append(new_nums[i-1]+nums[i])
+        for i in nums[1:]:
+            new_nums.append(new_nums[-1]+i)
         return new_nums
