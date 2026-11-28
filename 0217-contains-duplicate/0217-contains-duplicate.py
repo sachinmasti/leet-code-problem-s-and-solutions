@@ -1,10 +1,11 @@
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
-        hashmap = {}
+     
+        seen = set()
+
         for n in nums:
-            hashmap[n] = hashmap.get(n , 0) +1
-        
-        for value in hashmap.values():
-            if value >1:
+            if n in seen:
                 return True
+            else:
+                seen.add(n)
         return False
